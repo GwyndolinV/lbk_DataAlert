@@ -1,6 +1,6 @@
 # LBK DataAlert 
 
-## 本日团队日报
+## 团队日报
 
 ## Ferra 
 ![Ferra团队报表](https://raw.githubusercontent.com/GwyndolinV/lbk_DataAlert/main/supervisor_reports/Ferra_team_report.png)
