@@ -1,54 +1,18 @@
-# LBK DataAlert 日报生成器
+# LBK DataAlert 
 
-这是一个用于生成LBK DataAlert每日数据的工具，可以处理原始数据并生成可视化报告。
 
-## 功能特点
+## 本日团队日报
 
-- 数据处理和清洗
-- 按维度聚合数据
-- 创建可视化表格和图表
-- 生成详细的日报
+![Ferra团队报表](supervisor_reports/Ferra_team_report.png)
 
-## 安装依赖
+![Lisa团队报表](supervisor_reports/Lisa_team_report.png)
 
-在项目根目录运行安装脚本：
+![Peter-Fang团队报表](supervisor_reports/Peter-Fang_team_report.png)
 
-```bash
-python install.py
-```
+![Wayne c团队报表](supervisor_reports/Wayne_c_team_report.png)
 
-这将自动创建虚拟环境并安装所有必需的依赖包。
+![karen团队报表](supervisor_reports/karen_team_report.png)
 
-## 使用方法
+![人人代理团队报表](supervisor_reports/人人代理_team_report.png)
 
-1. 激活虚拟环境：
-
-```bash
-source .venv/bin/activate
-```
-
-2. 运行主程序：
-
-```bash
-python daily_report_generator.py
-```
-
-3. 使用完毕后退出虚拟环境：
-
-```bash
-deactivate
-```
-
-## 项目文件
-
-- `daily_report_generator.py`：主程序代码
-- `install.py`：依赖安装脚本
-- `requirements.txt`：项目依赖列表
-- `raw_data.csv`：原始数据文件
-- `.gitignore`：Git忽略文件配置
-
-## 依赖
-
-- pandas==2.0.3
-- matplotlib==3.7.2
-- numpy==1.24.3
+![自然用户团队报表](supervisor_reports/自然用户_team_report.png)
